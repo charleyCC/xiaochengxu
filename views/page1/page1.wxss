@@ -1,0 +1,8 @@
+text{
+	color : #fff;
+	background-color : #000;
+	display: block;
+	margin: 20px auto;
+	font-size: 30px;
+	text-align: center;
+}
